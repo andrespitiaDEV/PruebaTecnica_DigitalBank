@@ -1,0 +1,9 @@
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\bin\Debug\PruebaTecnica.Data.dll
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\bin\Debug\PruebaTecnica.Data.pdb
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\bin\Debug\PruebaTecnica.Entities.dll
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\bin\Debug\PruebaTecnica.Entities.pdb
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\obj\Debug\PruebaTecnica.Data.csproj.AssemblyReference.cache
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\obj\Debug\PruebaTecnica.Data.csproj.CoreCompileInputs.cache
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\obj\Debug\PruebaTe.4A3CCF59.Up2Date
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\obj\Debug\PruebaTecnica.Data.dll
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Data\obj\Debug\PruebaTecnica.Data.pdb

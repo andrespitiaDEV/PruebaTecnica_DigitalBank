@@ -1,0 +1,6 @@
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Entities\bin\Debug\PruebaTecnica.Entities.dll
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Entities\bin\Debug\PruebaTecnica.Entities.pdb
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Entities\obj\Debug\PruebaTecnica.Entities.csproj.AssemblyReference.cache
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Entities\obj\Debug\PruebaTecnica.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Entities\obj\Debug\PruebaTecnica.Entities.dll
+C:\Users\Personal\OneDrive - uniminuto.edu\Documentos\PruebaTecnica_DigitalBank\PruebaTecnica.Entities\obj\Debug\PruebaTecnica.Entities.pdb
